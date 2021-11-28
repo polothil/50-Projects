@@ -1,0 +1,23 @@
+{
+  "name": "50-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d 50-projects"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polothil/50-Projects.git"
+  },
+  "keywords": [],
+  "author": "Polothil",
+  "license": "ISC",
+  "homepage": "https://polothil.github.io//50-Projects",
+  "bugs": {
+    "url": "https://github.com/polothil/50-Projects/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
